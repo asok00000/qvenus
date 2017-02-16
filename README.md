@@ -1,1 +1,2 @@
 # qvenus
+Qss在QVenusClass上面的，用的designer或者creator鼠标右键更改样式表可以看到
